@@ -3,9 +3,9 @@
 # Comandos:
 ## Comandos de git 	:sparkles:  
 
--[git init] para iniciar el git  
+1. git init: para iniciar el git  
 
--[git add] para pasar al proceso de stage  
+2.git add: para pasar al proceso de stage  
 
 **git commit -m** para comentar 
 **git remote..** para crear un nuevo repo
